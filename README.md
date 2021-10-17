@@ -1,8 +1,6 @@
 # NTHU
 ### 將在學期間做過比較完整的作業及專題進行整理，根據作品內容進行分類，每個資料夾內包含各自的readme.md介紹各個作業內容，畢業專題當初和組員有整理放在一起，因此另外附上連結。
 
-## 缺reflection
-Crawler
 ## Not Yet
 C / C++
 Model Prune
