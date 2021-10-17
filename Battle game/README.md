@@ -6,9 +6,11 @@
 <img src="https://i.imgur.com/4PzAu78.gif" width=75%>
 
 About畫面
+
 <img src="https://i.imgur.com/N1phPTZ.jpg" width=75%>
 
 初始遊戲畫面
+
 <img src="https://i.imgur.com/cgkcOU6.gif" width=75%>
 
 小火龍可噴火，而傑尼龜則可跳躍，若是被衝撞則血量下降，下降過半上方角落的頭像則會改變為較悲傷的表情
