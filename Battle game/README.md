@@ -17,4 +17,5 @@ About畫面
 <img src="https://i.imgur.com/rXqyXcz.jpg" width=45%>	<img src="https://i.imgur.com/tqwr3xx.gif" width=45%>
 
 各自的獲勝畫面
+
 <img src="https://i.imgur.com/mwztvmP.jpg" width=45%>    <img src="https://i.imgur.com/guVjwrO.jpg" width=45%>
