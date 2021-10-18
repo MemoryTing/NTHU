@@ -3,8 +3,6 @@
 
 ## Not Yet
 HTML
-Model Prune
-MIR
 OpenGL
 
 ## 畢業專題　Baby Monitor
