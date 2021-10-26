@@ -3,7 +3,6 @@
 
 ## Not Yet
 HTML
-OpenGL
 
 ## 畢業專題　Baby Monitor
 #### Goal
