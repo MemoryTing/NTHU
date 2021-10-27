@@ -1,8 +1,31 @@
 # NTHU
-### 將在學期間做過比較完整的作業及專題進行整理，根據作品內容進行分類，每個資料夾內包含各自的readme.md介紹各個作業內容，畢業專題當初和組員有整理放在一起，因此另外附上連結。
+##### 將在學期間做過比較完整的作業及專題進行整理，根據作品內容進行分類，每個資料夾內包含各自的readme.md介紹各個作業內容，畢業專題當初和組員有整理放在一起，因此另外附上連結。
 
-## Not Yet
-HTML
+* Battle Game
+
+  使用C library Allegro 5製作簡易的對戰遊戲
+
+* Data Science
+
+  1. Crawler
+
+     抓取乙太坊的交易紀錄鏈、抓取指定Youtuber的最新影片的所有留言
+
+  2. Model prune
+
+     使用AlexNet model train CIFAR-10 dataset，進行network Pruning
+
+* MIR（音樂資訊檢索）
+
+  使用Python Package librosa對歌曲進行分析，找出該歌曲片段的調性，並計算不同曲風的準確度
+
+* OpenGL
+
+  使用openGL對給定的模型進行翻轉伸縮、光線及材質改變等等變化
+
+
+
+
 
 ## 畢業專題　Baby Monitor
 #### Goal
