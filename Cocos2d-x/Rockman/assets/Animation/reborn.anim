@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "reborn",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "50b235f1-670f-4562-8afc-711307283d25"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "50b82a94-de4d-4f32-91e2-1666a7940211"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "65c8ce8c-38ab-44ff-bd69-1929721c4996"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "8a3794bb-cb84-4586-b187-e31344e28394"
+            }
+          },
+          {
+            "frame": 0.7166666666666667,
+            "value": {
+              "__uuid__": "8d1e8d2b-4ed4-46a1-843f-baecd949c652"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorY": [
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.55,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.7166666666666667,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

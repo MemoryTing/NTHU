@@ -62,7 +62,6 @@
     0x03f034fb47965123ea4148e3147e2cfdc5b1f7a5 -> 0x4f49bdebbef29a4f1a3ea1d41867ece1850cef75 -> 0xdd007278b667f6bef52fd0a4c23604aa1f96039a
     --------------------------------------------------------------------------
     ```
-### Reflection
 
 
 ***
@@ -138,5 +137,3 @@
             'reply_comment_number': int(data_item['totalReplyCount'])
         })
     ```
-### Reflection
-之前是直接觀察HTML檔案進行crawler，因此想試試有沒有其他方法便上網參考了其他人的做法，也是第一次嘗試使用google cloud，
