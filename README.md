@@ -21,7 +21,7 @@
 
   將dataset中已標記的芒果圖片作為分級標準，並使用train好的model對未知等級的芒果圖片進行分級標記
 
-## Baby Monitor
+# Baby Monitor
 #### Goal
 偵測睡眠中的嬰兒的生命徵象數值，在離開嬰兒身邊時也能確定他的狀態，若無法偵測到心跳呼吸，則立即傳送通知。
 #### Device
@@ -40,7 +40,7 @@
 
 
 
-## 3D Crazy Arcade
+# 3D Crazy Arcade
 
 #### Goal
 
